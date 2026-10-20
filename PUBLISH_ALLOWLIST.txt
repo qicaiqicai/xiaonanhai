@@ -1,0 +1,13 @@
+.gitignore
+LICENSE
+PUBLISH_ALLOWLIST.txt
+README.md
+SKILL.md
+references/index.md
+references/workflow.md
+references/psychology.md
+references/conversation.md
+references/relationship.md
+references/intimacy.md
+references/risk-business.md
+references/sources.md

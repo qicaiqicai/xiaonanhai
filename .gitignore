@@ -1,0 +1,16 @@
+# Only explicitly reviewed release files may be tracked.
+*
+!/.gitignore
+!/PUBLISH_ALLOWLIST.txt
+!/SKILL.md
+!/README.md
+!/LICENSE
+!/references/
+!/references/index.md
+!/references/workflow.md
+!/references/psychology.md
+!/references/conversation.md
+!/references/relationship.md
+!/references/intimacy.md
+!/references/risk-business.md
+!/references/sources.md
