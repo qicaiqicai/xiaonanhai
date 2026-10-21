@@ -7,6 +7,8 @@ references/index.md
 references/workflow.md
 references/psychology.md
 references/conversation.md
+references/tension.md
+references/game.md
 references/relationship.md
 references/intimacy.md
 references/risk-business.md
