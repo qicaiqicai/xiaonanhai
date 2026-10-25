@@ -4,6 +4,7 @@ PUBLISH_ALLOWLIST.txt
 README.md
 SKILL.md
 references/index.md
+references/book-route-cards.md
 references/workflow.md
 references/psychology.md
 references/conversation.md
